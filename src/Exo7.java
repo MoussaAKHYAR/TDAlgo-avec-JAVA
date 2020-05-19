@@ -20,7 +20,7 @@ public class Exo7 {
         p2 =  (((montant%20)%10)%5)/2;
         p1 =  ((((montant%20)%10)%5)%2);
 
-        System.out.println("le montant "+montant+" a "+b20+" billets de 20 "+b10+" billets de 10 "+b5+
-                " billets de 5 "+p2+" pieces de 2 "+p1+" piece de 1");
+        System.out.println("le montant "+montant+" a :\n"+b20+" billets de 20 \n"+b10+" billets de 10 \n"+b5+
+                " billets de 5 \n"+p2+" pieces de 2 \n"+p1+" piece de 1");
     }
 }

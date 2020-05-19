@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exo2 {
+public class Exo2 {
 /*
 Exercice 2
 Ecrire un programme qui demande à l’utilisateur de donner le rayon d’un cercle et lui retourne sa surface et son périmètre.
