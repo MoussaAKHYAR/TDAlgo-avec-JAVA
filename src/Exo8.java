@@ -13,8 +13,8 @@ public class Exo8 {
             a = scanner.nextInt();
             b = scanner.nextInt();
             c = scanner.nextInt();
-        }while (b==0);
-        d = b*b*4*a*c;
+        }while (a==0);
+        d = b*b-(4*a*c);
         if(d>0){
             x1 = (float) (-b-(Math.sqrt(d)))/2*a;
             x2 = (float) ((-b+(Math.sqrt(d)))/2*a);
@@ -24,8 +24,5 @@ public class Exo8 {
         x1 = -b/2*a;
             System.out.println("la solution est : "+x1);
         }
-
-
-
     }
 }

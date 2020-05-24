@@ -10,8 +10,8 @@ Formule : distante = racine carrée de ((x1 – x2)2  + (y1 – y2)2)
 public class Exo6 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int x1,y1,x2,y2,c;
-        double d;
+        int x1,y1,x2,y2;
+        double d,c;
 
         System.out.println("saisir les coordonnées du point A(X1,Y1)");
         x1 = scanner.nextInt();
@@ -21,11 +21,8 @@ public class Exo6 {
         x2 = scanner.nextInt();
         y2 = scanner.nextInt();
 
-        c = ((x1 - x2)*2 +(y1 - y2)*2);
-        if (c > 0){
-            d =  Math.sqrt(c);
-            System.out.println("la distance entre les point A et B est :"+d);
-        }else
-            System.out.println("revoir les coordonées saisies");
+        c = (Math.pow((x1 - x2),2) +Math.pow((y1 - y2),2));
+        d =  Math.sqrt(c);
+        System.out.println("la distance entre les point A et B est :"+d);
     }
 }

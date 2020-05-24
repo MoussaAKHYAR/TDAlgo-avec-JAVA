@@ -5,28 +5,17 @@ public class Exo23 {
 
      */
     public static void main(String[] args) {
-        int n,cpt=0,F=0;
+        int u = 2 ,v = 2,w,N,i;
         Scanner sc = new Scanner(System.in);
-
-        do {
-            System.out.println("Entrez la longueur");
-            n = sc.nextInt();
-        } while (n <= 0 || n > 100);
-
-        for(int i=0;i<n;i++){
-            if(i==0 || i==1){
-                F=2;
-            }else {
-                for(int j=2;j<n-2;j++){
-                    if(j%2==0){
-                        F=F+j;
-                    }
-                }
-            }
-
-            System.out.println("Mois "+i+" ="+F);
+        System.out.println("Tapez N : ");
+        N = sc.nextInt();
+        w = 2;
+        for (i = 2; i <= N; i++){
+            w = u +v;
+            u = v;
+            v = w;
         }
-
+        System.out.println("F"+N+" = "+w);
     }
 
 }
