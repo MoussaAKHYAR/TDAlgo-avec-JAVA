@@ -7,7 +7,7 @@ public class Exo21 {
       lui indique si l'entier est plus grand ou plus petit que sa proposition.Un score est affiché lorsque l'entier est trouvé.
      */
     public static void main(String[] args) {
-       /* Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         int a, b;
         System.out.println("Entrer la valeur du premier utilisateur ");
         a = scanner.nextInt();
@@ -23,7 +23,7 @@ public class Exo21 {
           b = scanner.nextInt();
 
         }
-        System.out.println("Bravo vous avez trouvé !!!!!!!");*/
+        System.out.println("Bravo vous avez trouvé !!!!!!!");
 
     }
 }

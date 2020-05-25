@@ -2,22 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fde8d74-d853-446f-9f88-ba26568e3dc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exo16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exo17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exo18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exo19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exo20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exo21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exo24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exo26b.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TDAlgoJava/Exo15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TDAlgoJava/Exo15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TDAlgoJava/Exo6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TDAlgoJava/Exo6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TDAlgoJava/Exo8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TDAlgoJava/Exo8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TDAlgoJava/exo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TDAlgoJava/exo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exo15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exo15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TDAlgoJava/Exo21.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TDAlgoJava/Exo21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TDAlgoJava/Exo23.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TDAlgoJava/Exo23.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exo21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exo21.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exo23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exo23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exo6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exo6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exo8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exo8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exo26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exo26.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,33 +21,34 @@
     <session id="680579889">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.56" value="1" />
           <entry key="project.open.time.61" value="2" />
+          <entry key="project.open.time.66" value="1" />
           <entry key="project.open.time.91" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="85" />
+          <entry key="java" value="102" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="85" />
+          <entry key="JAVA" value="102" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="8077" />
+          <entry key="java" value="8739" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8077" />
+          <entry key="JAVA" value="8739" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -65,91 +57,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exo20.java">
+        <entry file="file://$PROJECT_DIR$/src/Exo26.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exo21.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="25" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exo18.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exo25.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exo16.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exo17.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="32" column="68" lean-forward="true" selection-start-line="32" selection-start-column="68" selection-end-line="32" selection-end-column="68" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exo19.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="70" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="70" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exo22.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            <state relative-caret-position="188">
+              <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Exo23.java">
+        <entry file="file://$PROJECT_DIR$/src/exo26b.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exo24.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="21" column="85" selection-start-line="21" selection-start-column="85" selection-end-line="21" selection-end-column="85" />
+            <state relative-caret-position="510">
+              <caret line="30" column="41" lean-forward="true" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -188,15 +111,18 @@
         <option value="$PROJECT_DIR$/src/Exo3.java" />
         <option value="$PROJECT_DIR$/src/Exo8.java" />
         <option value="$PROJECT_DIR$/src/Exo6.java" />
-        <option value="$PROJECT_DIR$/src/Exo15.java" />
         <option value="$PROJECT_DIR$/src/Exo16.java" />
         <option value="$PROJECT_DIR$/src/Exo18.java" />
         <option value="$PROJECT_DIR$/src/Exo19.java" />
         <option value="$PROJECT_DIR$/src/Exo17.java" />
+        <option value="$PROJECT_DIR$/src/Exo24.java" />
+        <option value="$PROJECT_DIR$/src/Exo15.java" />
         <option value="$PROJECT_DIR$/src/Exo20.java" />
         <option value="$PROJECT_DIR$/src/Exo21.java" />
-        <option value="$PROJECT_DIR$/src/Exo24.java" />
         <option value="$PROJECT_DIR$/src/Exo23.java" />
+        <option value="$PROJECT_DIR$/src/Exo26.java" />
+        <option value="$PROJECT_DIR$/src/exo27.java" />
+        <option value="$PROJECT_DIR$/src/exo26b.java" />
       </list>
     </option>
   </component>
@@ -235,16 +161,16 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590281918737" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590418418373" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="show.migrate.to.gradle.popup" value="false" />
@@ -261,9 +187,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exo23">
-    <configuration name="Exo19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exo19" />
+  <component name="RunManager" selected="Application.exo26b">
+    <configuration name="Exo12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exo12" />
+      <module name="TDAlgoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exo17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exo17" />
       <module name="TDAlgoJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -276,20 +209,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exo20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exo20" />
-      <module name="TDAlgoJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exo21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exo21" />
-      <module name="TDAlgoJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Exo23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exo23" />
       <module name="TDAlgoJava" />
@@ -297,8 +216,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exo24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exo24" />
+    <configuration name="Exo26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exo26" />
+      <module name="TDAlgoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exo26b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exo26b" />
       <module name="TDAlgoJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -306,19 +232,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Exo2" />
-      <item itemvalue="Application.Exo19" />
-      <item itemvalue="Application.Exo20" />
-      <item itemvalue="Application.Exo21" />
-      <item itemvalue="Application.Exo24" />
       <item itemvalue="Application.Exo23" />
+      <item itemvalue="Application.Exo12" />
+      <item itemvalue="Application.Exo17" />
+      <item itemvalue="Application.Exo26" />
+      <item itemvalue="Application.exo26b" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exo26b" />
+        <item itemvalue="Application.Exo26" />
+        <item itemvalue="Application.Exo17" />
         <item itemvalue="Application.Exo23" />
-        <item itemvalue="Application.Exo24" />
-        <item itemvalue="Application.Exo21" />
-        <item itemvalue="Application.Exo20" />
-        <item itemvalue="Application.Exo19" />
+        <item itemvalue="Application.Exo12" />
       </list>
     </recent_temporary>
   </component>
@@ -336,17 +262,19 @@
       <workItem from="1589640847142" duration="29816000" />
       <workItem from="1589845530095" duration="6001000" />
       <workItem from="1589885564789" duration="34113000" />
-      <workItem from="1590278687141" duration="3203000" />
+      <workItem from="1590278687141" duration="3829000" />
+      <workItem from="1590362823627" duration="15275000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73749000" />
+    <option name="totallyTimeSpent" value="89650000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22919819" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23298033" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -397,27 +325,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exo13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exo12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="47" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="47" />
         </state>
       </provider>
     </entry>
@@ -491,17 +398,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exo14.java">
+    <entry file="file://$PROJECT_DIR$/src/Exo12.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+        <state relative-caret-position="157">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exo15.java">
+    <entry file="file://$PROJECT_DIR$/src/Exo13.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+        <state relative-caret-position="340">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exo14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="69" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="19" selection-end-column="69" />
         </state>
       </provider>
     </entry>
@@ -512,51 +426,72 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exo15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="52" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="22" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exo17.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="409">
-          <caret line="32" column="68" lean-forward="true" selection-start-line="32" selection-start-column="68" selection-end-line="32" selection-end-column="68" />
+          <caret line="32" column="68" selection-start-line="32" selection-start-column="68" selection-end-line="32" selection-end-column="68" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exo18.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        <state relative-caret-position="358">
+          <caret line="31" selection-start-line="31" selection-end-line="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exo19.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="70" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="70" />
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exo20.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exo22.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exo21.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="25" selection-end-column="63" />
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exo22.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exo23.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exo24.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
+        <state relative-caret-position="357">
           <caret line="21" column="85" selection-start-line="21" selection-start-column="85" selection-end-line="21" selection-end-column="85" />
         </state>
       </provider>
@@ -568,10 +503,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exo23.java">
+    <entry file="file://$PROJECT_DIR$/src/Exo26.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        <state relative-caret-position="188">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exo26b.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="41" lean-forward="true" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
